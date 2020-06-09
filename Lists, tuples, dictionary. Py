@@ -1,0 +1,24 @@
+# Assigning values to different list
+list1=[1, 3,6,9]
+list2=[2, 4,5,7,8]
+a=list1+list2
+Print(a) 
+
+
+
+#Accessing elements from tuples
+tup(21, 36,14,25) 
+tup(2) 
+
+
+
+
+
+#deleting different dictionary elements
+data={"1":"navin", "2":" Kiran", "3":" Harsh"}
+data1={"js":"atom", "cs":"vs", " Python":"sublime"}
+del data["harsh"]
+Print(data) 
+del data1["vs"]
+Print(data1) 
+
